@@ -1,6 +1,6 @@
 # Theme2Crocs
 
-A sleek dark Discord theme with customizable accent colors, built for [Vencord](https://vencord.dev/).
+A sleek dark Discord theme with customizable accent colors. Compatible with **Vencord** and **BetterDiscord**.
 
 ---
 
@@ -20,6 +20,7 @@ A sleek dark Discord theme with customizable accent colors, built for [Vencord](
 
 ## Installation
 
+### Vencord
 1. Install [Vencord](https://vencord.dev/) if you haven't already
 2. Open Discord → **Vencord Settings** → **Themes** → **Online Themes**
 3. Paste this URL and click **Load**:
@@ -27,6 +28,13 @@ A sleek dark Discord theme with customizable accent colors, built for [Vencord](
 ```
 https://raw.githubusercontent.com/diego2crocs/Theme2Crocs/main/Theme2Crocs.theme.css
 ```
+
+### BetterDiscord
+1. Install [BetterDiscord](https://betterdiscord.app/) if you haven't already
+2. Download [`Theme2Crocs.theme.css`](https://raw.githubusercontent.com/diego2crocs/Theme2Crocs/main/Theme2Crocs.theme.css)
+3. Move it to your BetterDiscord themes folder:
+   - **Windows** : `%appdata%\BetterDiscord\themes\`
+4. Open Discord → **BetterDiscord Settings** → **Themes** → enable **Theme2Crocs**
 
 ---
 
