@@ -1,9 +1,16 @@
 /**
  * @name Theme2Crocs
- * @description A sleek dark Discord theme with customizable accent colors. Features styled Spotify player, animated voice indicators, custom code blocks, context menus, and smooth transitions. By Diego2Crocs.
  * @author Diego2Crocs
  * @version 0.1
  * @source https://github.com/diego2crocs/Theme2Crocs
+ * @authorId 485074022263160844
+ * @description A sleek dark Discord theme with a purple accent palette and glassmorphism effects.
+ *              Features include a styled Spotify player, animated voice indicators, custom code blocks,
+ *              themed context menus, stylized settings pages, and smooth page transitions.
+ *
+ *              ⚠️  EARLY PREVIEW — This is an in-development release (v0.1).
+ *              Some areas may still contain visual bugs or unstyled elements, and certain
+ *              features are not yet implemented. Feedback and bug reports are welcome.
 */
 
 @import url("https://cdn.jsdelivr.net/gh/diego2crocs/Theme2Crocs@main/Theme2Crocs.css");
