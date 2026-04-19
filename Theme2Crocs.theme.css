@@ -1,0 +1,78 @@
+/**
+ * @name Theme2Crocs
+ * @description A sleek dark Discord theme with customizable accent colors. Features styled Spotify player, animated voice indicators, custom code blocks, context menus, and smooth transitions. By Diego2Crocs.
+ * @author Diego2Crocs
+ * @version 0.1
+ * @source https://github.com/diego2crocs/Theme2Crocs
+*/
+
+@import url("https://cdn.jsdelivr.net/gh/diego2crocs/Theme2Crocs@main/Theme2Crocs.css");
+
+/* =============================================================
+   THEME PRESETS
+   Uncomment ONE preset and comment out the others.
+   You can also freely edit any variable value to customize.
+   ============================================================= */
+
+/* ── VIOLET (default) ────────────────────────────────────────*/
+:root {
+  --t-accent-rgb:       128, 66, 214;
+  --t-accent-mid-rgb:   168, 120, 230;
+  --t-accent-light-rgb: 200, 160, 255;
+  --t-badge-rgb:        236, 72, 153;
+  --t-bg-0: rgb(16, 12, 22);
+  --t-bg-1: rgb(18, 14, 24);
+  --t-bg-2: rgb(20, 16, 26);
+  --t-bg-3: rgb(22, 18, 28);
+  --t-bg-4: rgb(25, 20, 32);
+  --t-bg-5: rgb(28, 22, 36);
+  --t-bg-6: rgb(32, 26, 40);
+}
+
+/* ── BLUE ───────────────────────────────────────────────────
+:root {
+  --t-accent-rgb:       66, 120, 214;
+  --t-accent-mid-rgb:   100, 155, 230;
+  --t-accent-light-rgb: 150, 195, 255;
+  --t-badge-rgb:        72, 153, 236;
+  --t-bg-0: rgb(12, 15, 22);
+  --t-bg-1: rgb(14, 18, 26);
+  --t-bg-2: rgb(16, 20, 28);
+  --t-bg-3: rgb(18, 22, 32);
+  --t-bg-4: rgb(20, 25, 36);
+  --t-bg-5: rgb(22, 28, 40);
+  --t-bg-6: rgb(26, 32, 46);
+}
+*/
+
+/* ── GREEN ──────────────────────────────────────────────────
+:root {
+  --t-accent-rgb:       46, 160, 100;
+  --t-accent-mid-rgb:   80, 190, 130;
+  --t-accent-light-rgb: 130, 220, 170;
+  --t-badge-rgb:        80, 210, 130;
+  --t-bg-0: rgb(10, 18, 14);
+  --t-bg-1: rgb(12, 20, 16);
+  --t-bg-2: rgb(14, 22, 18);
+  --t-bg-3: rgb(16, 24, 20);
+  --t-bg-4: rgb(18, 27, 22);
+  --t-bg-5: rgb(20, 30, 25);
+  --t-bg-6: rgb(24, 34, 28);
+}
+*/
+
+/* ── RED ────────────────────────────────────────────────────
+:root {
+  --t-accent-rgb:       200, 60, 70;
+  --t-accent-mid-rgb:   220, 100, 110;
+  --t-accent-light-rgb: 240, 150, 160;
+  --t-badge-rgb:        236, 130, 72;
+  --t-bg-0: rgb(20, 12, 12);
+  --t-bg-1: rgb(22, 14, 14);
+  --t-bg-2: rgb(24, 16, 16);
+  --t-bg-3: rgb(26, 18, 18);
+  --t-bg-4: rgb(29, 20, 20);
+  --t-bg-5: rgb(32, 23, 23);
+  --t-bg-6: rgb(36, 26, 26);
+}
+*/
